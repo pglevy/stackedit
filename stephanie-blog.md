@@ -1,3 +1,8 @@
+---
+title: Joining SID-W as a Health and Nutrition Workgroup Co-Chair; What it Means to Me and Plans for the Future!
+
+---
+
 # Joining SID-W as a Health and Nutrition Workgroup Co-Chair; What it Means to Me and Plans for the Future!
 
 Last week, I was excited to learn I was chosen to serve as co-chair for the  [Health and Nutrition workgroup](https://sidw.org/workgroups/health-nutrition)  with the Society for International Development – Washington Chapter (SID-W).
@@ -29,6 +34,5 @@ lELVcgYXMgYSBIZWFsdGggYW5kIE51dHJpdGlvbiBXb3JrZ3Jv
 dXAgQ28tQ2hhaXI7IFdoYXQgaXQgTWVhbnMgdG9cbiAgTWUgYW
 5kIFBsYW5zIGZvciB0aGUgRnV0dXJlIVxuYXV0aG9yOiBTdGVw
 aGFuaWUgVmFzcXVlelxuZGF0ZTogJzIwMjAtMDUtMjcnXG4iLC
-JoaXN0b3J5IjpbLTE2MDEyNDY2MjUsLTE5NjUxNzY0NjNdfQ==
-
+JoaXN0b3J5IjpbMTQ0MTg4ODU4NywtMTk2NTE3NjQ2M119
 -->
