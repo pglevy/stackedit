@@ -24,6 +24,11 @@ I look forward to what the year brings and in working with colleagues across the
 
 **_Interested in becoming a SID-Washington Workgroup Co-Chair? Click [here](https://sidw.org/call-applications-workgroup-co-chairs)  to learn more about the roles and responsibilities of a co-chair._**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjUxNzY0NjMsLTE5NjUxNzY0NjNdfQ
-==
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6ID4tXG4gIEpvaW5pbmcgU0
+lELVcgYXMgYSBIZWFsdGggYW5kIE51dHJpdGlvbiBXb3JrZ3Jv
+dXAgQ28tQ2hhaXI7IFdoYXQgaXQgTWVhbnMgdG9cbiAgTWUgYW
+5kIFBsYW5zIGZvciB0aGUgRnV0dXJlIVxuYXV0aG9yOiBTdGVw
+aGFuaWUgVmFzcXVlelxuZGF0ZTogJzIwMjAtMDUtMjcnXG4iLC
+JoaXN0b3J5IjpbLTE2MDEyNDY2MjUsLTE5NjUxNzY0NjNdfQ==
+
 -->
