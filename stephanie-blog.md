@@ -1,3 +1,8 @@
+---
+title: Stephanie's blog
+
+---
+
 # Joining SID-W as a Health and Nutrition Workgroup Co-Chair; What it Means to Me and Plans for the Future!
 
 Last week, I was excited to learn I was chosen to serve as co-chair for the  [Health and Nutrition workgroup](https://sidw.org/workgroups/health-nutrition)  with the Society for International Development – Washington Chapter (SID-W).
@@ -24,5 +29,5 @@ I look forward to what the year brings and in working with colleagues across the
 
 **_Interested in becoming a SID-Washington Workgroup Co-Chair? Click [here](https://sidw.org/call-applications-workgroup-co-chairs)  to learn more about the roles and responsibilities of a co-chair._**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjUxNzY0NjNdfQ==
+eyJoaXN0b3J5IjpbMTAwNTk1MDE5MiwtMTk2NTE3NjQ2M119
 -->
