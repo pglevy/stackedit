@@ -1,5 +1,5 @@
 ---
-title: Joining SID-W as a Health and Nutrition Workgroup Co-Chair; What it Means to Me and Plans for the Future!
+title: Joining SID-W
 
 ---
 
@@ -34,5 +34,6 @@ lELVcgYXMgYSBIZWFsdGggYW5kIE51dHJpdGlvbiBXb3JrZ3Jv
 dXAgQ28tQ2hhaXI7IFdoYXQgaXQgTWVhbnMgdG9cbiAgTWUgYW
 5kIFBsYW5zIGZvciB0aGUgRnV0dXJlIVxuYXV0aG9yOiBTdGVw
 aGFuaWUgVmFzcXVlelxuZGF0ZTogJzIwMjAtMDUtMjcnXG4iLC
-JoaXN0b3J5IjpbMTQ0MTg4ODU4NywtMTk2NTE3NjQ2M119
+JoaXN0b3J5IjpbLTEyNjI5NzY4MjksLTE5NjUxNzY0NjNdfQ==
+
 -->
