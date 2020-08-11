@@ -1,6 +1,6 @@
 ---
 title: Joining SID-W
-parent: blog
+parent: Blog
 
 ---
 
@@ -35,5 +35,5 @@ lELVcgYXMgYSBIZWFsdGggYW5kIE51dHJpdGlvbiBXb3JrZ3Jv
 dXAgQ28tQ2hhaXI7IFdoYXQgaXQgTWVhbnMgdG9cbiAgTWUgYW
 5kIFBsYW5zIGZvciB0aGUgRnV0dXJlIVxuYXV0aG9yOiBTdGVw
 aGFuaWUgVmFzcXVlelxuZGF0ZTogJzIwMjAtMDUtMjcnXG4iLC
-JoaXN0b3J5IjpbODkwMTYxNzk5XX0=
+JoaXN0b3J5IjpbLTYyMjAzMTE5Myw4OTAxNjE3OTldfQ==
 -->
