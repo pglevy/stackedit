@@ -1,5 +1,6 @@
 ---
 title: welcome
+nav_exclude: true
 
 ---
 
@@ -147,5 +148,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDk0MTg2M119
+eyJoaXN0b3J5IjpbLTEyMDUwNzczOTFdfQ==
 -->
