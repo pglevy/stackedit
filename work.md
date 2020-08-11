@@ -3,17 +3,25 @@ title: Our Work
 
 ---
 
-## What we do.
+# Our Work
 
-At Bixal, our mission is to improve people’s lives through human-centered design and transformative technologies. From helping American businesses to providing access to vital health information to millions, we’re proud of the work our teams have done to ensure that everyone has access to the services they need when they need them most. Read on to learn about the broad scope of our work and how our experts help Federal agencies and organizations better serve citizens all over the world.
+We work with government agencies and organizations that seek to drive real change and have the means to deliver on that promise.
 
-## Section
+[View Case Study](https://legacy.bixal.com/work/certifying-housing-counselors "Certifying Housing Counselors")
 
-Bahama Village mallory square western union schooner fleming key ship wreck Captain Tony cafe con leche glass beach sand key parrot heads Henry Flagler bow Harry Truman Ernest Hemingway Key West Pink Shrimp sunset key lobster beer harbor port salvage star fish Jimmy Buffet sightsee east martillo western dry rocks Whitehead Street US 1 Green Parrot sun power boat races sailfish chickens homeless cuban chug cuban missile crisis fantasy fest fishing.
+![Smiling woman](https://legacy.bixal.com/sites/default/files/styles/img_720x532/public/2017-10/HUD_Asset-new_1-sm_0%5B1%5D_0.png?itok=b9sFn4_A)
 
-## Section
+## [Certifying Housing Counselors](https://legacy.bixal.com/work/certifying-housing-counselors "View Case Study")
 
-Harbor queen conch old town shrimp web development Harry Truman kayak florida straights yellow tail Spanish galleon Santa Margarita mangroves and Tennessee Williams Henry Flagler bight turtle roosters treasure parrot heads conch republic cuban salvage rest beach sun tan Duval street dry tortugas schooner wharf margarita hurricane Sunset pier sun cow key square grouper homeless Green Parrot civil war conch tank island Key West glass beach US 1 sunset key channel.
+Office of Housing Counseling, U.S. Department of Housing and Urban Development (HUD)
+
+[View Case Study](https://legacy.bixal.com/work/USAID "Promoting Land Tenure")
+
+![Woman standing against a green building.](https://legacy.bixal.com/sites/default/files/styles/img_720x532/public/2017-04/16783740781_fe5e8c0f48_o.jpg?itok=rRb0FATN)
+
+## [Promoting Land Tenure](https://legacy.bixal.com/work/USAID "View Case Study")
+
+USAID Land Tenure, Land Links
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMTc2ODE0XX0=
+eyJoaXN0b3J5IjpbNTkwODQ5MTUzXX0=
 -->
