@@ -1,5 +1,5 @@
 ---
-title: Our Work
+title: Work
 
 ---
 
@@ -23,5 +23,5 @@ Office of Housing Counseling, U.S. Department of Housing and Urban Development (
 
 USAID Land Tenure, Land Links
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwODQ5MTUzXX0=
+eyJoaXN0b3J5IjpbMTg4NjkxMTIyMV19
 -->
